@@ -12,6 +12,8 @@ The raw data had several issues, which includes:
 -Salary values stored as text with currency symbols. 
 These issues made the data unsuitable for analysis until it was cleaned and standardized.
 
+## Raw Data Preview
+![Raw Data Preview](images/Raw-data-preview.png)
 ---
 
 ## Tools Used
@@ -229,6 +231,9 @@ This analysis compares the average performance score of active employees and emp
 
 This analysis shows the total projected bonus payout based on employee performance bands.
 
+## Pivot Table Analysis
+![Pivot Table Analysis](images/pivot-table.png)
+
 ---
 
 ## Dashboard Features
@@ -240,6 +245,8 @@ The final dashboard includes:
 - Slicers for Department, Employment Status, and Performance Band
 - Interactive filtering across the dashboard
 
+## Dashboard Preview
+![HR Dashboard](images/Hr-dashboard.png)
 ---
 
 ## Key Insights
