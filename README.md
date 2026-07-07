@@ -246,7 +246,7 @@ The final dashboard includes:
 - Interactive filtering across the dashboard
 
 ## Dashboard Preview
-![HR Dashboard](images/Hr__dashboard.png)
+![HR Dashboard](images/HR__dashboard.png)
 ---
 
 ## Key Insights
