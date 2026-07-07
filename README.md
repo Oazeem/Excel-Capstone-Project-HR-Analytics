@@ -246,7 +246,7 @@ The final dashboard includes:
 - Interactive filtering across the dashboard
 
 ## Dashboard Preview
-![HR Dashboard](images/Hr-dashboard.png)
+![HR Dashboard](images/Hr_dashboard.png)
 ---
 
 ## Key Insights
@@ -254,8 +254,8 @@ The final dashboard includes:
 - The cleaned dataset contains 150 unique employees after duplicate records were removed.
 - The overall attrition rate is 22.67%, meaning 34 out of 150 employees have left the organization.
 - Operations has the highest attrition rate at 37.93%, making it the department with the biggest retention concern.
-- Information Technology has the highest headcount with 36 employees, followed by Sales with 31 employees.
-- Finance has the highest average salary, while Operations has the lowest average salary.
+- The IT department delivers the strongest performance while receiving one of the lowest average salaries. This suggests a potential compensation imbalance that could affect employee retention if high performers are not adequately rewarded.
+- Finance appears to be one of the organization's most expensive departments while contributing the weakest performance outcomes. This could indicate inefficient resource utilization or ineffective performance management.
 - Employees who left had a slightly higher average performance score than active employees, showing that attrition is not limited to low-performing employees.
 - The Achieving performance band has the highest projected bonus payout, followed by Exceeding and Outstanding.
 
@@ -263,9 +263,8 @@ The final dashboard includes:
 
 ## Recommendations
 
-- HR should investigate the Operations department because it has the highest attrition rate.
-- Since Operations also has the lowest average salary, HR should review whether compensation, workload, or career growth may be contributing to employee exits.
-- The company should monitor attrition in Information Technology because it has the largest workforce and a high number of employees who left.
+- The HR should investigate the Operations department because it has the highest attrition rate. Since Operations also has the lowest average salary, HR should review whether compensation, workload, or career growth may be contributing to employee exits.
+- The HR should review the IT department's compensation structure to ensure salaries remain competitive. Recognizing and rewarding high-performing employees can improve retention and reduce the risk of losing valuable talent.
 - Retention strategies should also focus on good performers, since employees who left had a slightly higher average performance score than active employees.
 - Bonus planning should focus more on the Achieving and Exceeding bands because they account for a large share of the projected payout.
-
+- The HR should collaborate with Finance leadership to review performance expectations, employee productivity, and competency development. Additional salary increases should be linked to measurable improvements in performance.
