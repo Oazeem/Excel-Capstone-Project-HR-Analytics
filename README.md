@@ -257,8 +257,7 @@ The final dashboard includes:
 - The IT department delivers the strongest performance while receiving one of the lowest average salaries. This suggests a potential compensation imbalance that could affect employee retention if high performers are not adequately rewarded.
 - Finance appears to be one of the organization's most expensive departments while contributing the weakest performance outcomes. This could indicate inefficient resource utilization or ineffective performance management.
 - Employees who left had a slightly higher average performance score than active employees, showing that attrition is not limited to low-performing employees.
-- The Achieving performance band has the highest projected bonus payout, followed by Exceeding and Outstanding.
-
+  
 ---
 
 ## Recommendations
